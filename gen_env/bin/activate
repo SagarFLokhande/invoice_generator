@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/sagar/Desktop/local_repos/invoice_generator/gen_env"
+VIRTUAL_ENV="/Users/sagar/Desktop/git_repos/invoice_generator/gen_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
